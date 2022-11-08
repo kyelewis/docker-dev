@@ -1,1 +1,3 @@
-docker build -t kyelewis/rust-dev:latest .
+docker build \
+  --tag kyelewis/rust-dev:latest \
+  .
